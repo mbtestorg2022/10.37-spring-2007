@@ -49,13 +49,66 @@ The purpose of the recitation section is to give you practice working difficult 
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework | 20% |
-| Quiz | 10% |
-| Midterm exam 1 | 15% |
-| Midterm exam 2 | 20% |
-| Final exam | 35% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Homework
 
@@ -78,45 +131,543 @@ KDW = K. Dane Wittrup
 
 The calendar below provides information on the course's lecture (L) and recitation (R) sessions.
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| L1 | Preliminaries and remembrance of things past. Reaction stoichiometry, lumped stoichiometries in complex systems such as bioconversions and cell growth (yields); extent of reaction, independence of reactions, measures of concentration. Single reactions and reaction networks, bioreaction pathways. (WHG) | Problem set 1 out |
-| L2 | The reaction rate and reaction mechanisms: Definition in terms of reacting compounds and reaction extent; rate laws, Arrhenius equation, elementary, reversible, non-elementary, catalytic reactions. (WHG) | &nbsp; |
-| R1 | Recitation 1 | &nbsp; |
-| L3 | Kinetics of cell growth and enzymes. Cell growth kinetics; substrate uptake and product formation in microbial growth; enzyme kinetics, Michaelis-Menten rate form. (KDW) | &nbsp; |
-| L4 | Reaction mechanisms and rate laws: Reactive intermediates and steady state approximation in reaction mechanisms. Rate-limiting step. Chain reactions. Pyrolysis reactions. (WHG) |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-| R2 | Recitation 2 | &nbsp; |
-| L5 | Continuous stirred tank reactor (CSTR). Reactions in a perfectly stirred tank. Steady-state CSTR. (KDW) |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| L6 | Concentration that optimizes desired rate. Selectivity vs. Conversion. Combining reactors with separations. (WHG) | &nbsp; |
-| R3 | Recitation 3 | &nbsp; |
-| L7 | Batch reactor: Equations, reactor sizing for constant volume and variable volume processes. (KDW) |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-| L8 | The plug flow reactor. (WHG) | &nbsp; |
-| R4 | Recitation 4 | &nbsp; |
-| L9 | Reactor size comparisons for PFR and CSTR. Reactors in series and in parallel. How choice of reactor affects selectivity vs. conversion. (KDW) |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 out {{< br >}}{{< br >}}  |
-| L10 | Non-ideal reactor mixing patterns. Residence time distribution. Tanks in series model. Combinations of ideal reactors. (KDW) | &nbsp; |
-| R5 | Recitation 5 | &nbsp; |
-| L11 | Non isothermal reactors. Equilibrium limitations, stability. Derivation of energy balances for ideal reactors; equilibrium conversion, adiabatic and nonadiabatic reactor operation. (WHG) |  {{< br >}}{{< br >}} Problem set 5 due {{< br >}}{{< br >}} Problem set 6 out {{< br >}}{{< br >}}  |
-| L12 | Data collection and analysis. Experimental methods for the determination of kinetic parameters of chemical and enzymatic reactions; determination of cell growth parameters; statistical analysis and model discrimination. (WHG) | WebLab experiment out |
-| R6 | Recitation 6 | &nbsp; |
-| L13 | Biological reactors - chemostats. Theory of the chemostat. Fed batch or semi-continuous fermentor operation. (KDW) | Problem set 6 due |
-| &nbsp; | Midterm exam 1 | WebLab follow-up assignment out |
-| R7 | Recitation 7: Review of midterm exam 1 and WebLab experiment | &nbsp; |
-| L14 | Kinetics of non-covalent bimolecular interactions. Significance; typical values and diffusion limit; approach to equilibrium; multivalency. (KDW) | Problem set 7 out |
-| L15 | Gene expression and trafficking dynamics. Approach to steady state; receptor trafficking. (KDW) | WebLab follow-up assignment due |
-| R8 | Recitation 8 | &nbsp; |
-| L16 | Catalysis. Inorganic and enzyme catalysts and their properties; kinetics of heterogeneous catalytic reactions; adsorption isotherms, derivation of rate laws; Langmuir-Hinshelwood kinetics. (WHG) |  {{< br >}}{{< br >}} Problem set 7 due {{< br >}}{{< br >}} Problem set 8 out {{< br >}}{{< br >}}  |
-| L17 | Mass transfer resistances. External diffusion effects. Non-porous packed beds and monoliths, immobilized cells. (WHG) | &nbsp; |
-| L18 | External mass-transfer resistance: Gas-liquid reactions in multiphase systems. (KDW) | &nbsp; |
-| L19 | Oxygen transfer in fermentors. Applications of gas-liquid transport with reaction. (KDW) | &nbsp; |
-| R9 | Recitation 9 | Problem set 8 due |
-| &nbsp; | Midterm exam 2 | &nbsp; |
-| L20 | Reaction and diffusion in porous catalysts. Effective diffusivity, internal and overall effectiveness factor, Thiele modulus, apparent reaction rates. (KDW) | Problem set 9 out |
-| R10 | Recitation 10 | &nbsp; |
-| L21 | Reaction and diffusion in porous catalysts (cont.). Packed bed reactors. (WHG) |  {{< br >}}{{< br >}} Problem set 9 due {{< br >}}{{< br >}} Problem set 10 out {{< br >}}{{< br >}}  |
-| L22 | Combined internal and external transport resistances. (WHG) | &nbsp; |
-| R11 | Recitation 11 | &nbsp; |
-| L23 | Pulling it all together; applications to energy/chemicals industry. Presentation of current research. (WHG) | Problem set 10 due |
-| L24 | Pulling it all together; applications to bioengineering and medicine. Presentation of current research. (KDW) | &nbsp; |
-| R12 | Recitation 12 | &nbsp; |
-| L25 | Course review. (WHG) | &nbsp; |
-| &nbsp; | Final exam |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Preliminaries and remembrance of things past. Reaction stoichiometry, lumped stoichiometries in complex systems such as bioconversions and cell growth (yields); extent of reaction, independence of reactions, measures of concentration. Single reactions and reaction networks, bioreaction pathways. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+The reaction rate and reaction mechanisms: Definition in terms of reacting compounds and reaction extent; rate laws, Arrhenius equation, elementary, reversible, non-elementary, catalytic reactions. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R1
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics of cell growth and enzymes. Cell growth kinetics; substrate uptake and product formation in microbial growth; enzyme kinetics, Michaelis-Menten rate form. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Reaction mechanisms and rate laws: Reactive intermediates and steady state approximation in reaction mechanisms. Rate-limiting step. Chain reactions. Pyrolysis reactions. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R2
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous stirred tank reactor (CSTR). Reactions in a perfectly stirred tank. Steady-state CSTR. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Concentration that optimizes desired rate. Selectivity vs. Conversion. Combining reactors with separations. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R3
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+Batch reactor: Equations, reactor sizing for constant volume and variable volume processes. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+The plug flow reactor. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R4
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Reactor size comparisons for PFR and CSTR. Reactors in series and in parallel. How choice of reactor affects selectivity vs. conversion. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Non-ideal reactor mixing patterns. Residence time distribution. Tanks in series model. Combinations of ideal reactors. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R5
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Non isothermal reactors. Equilibrium limitations, stability. Derivation of energy balances for ideal reactors; equilibrium conversion, adiabatic and nonadiabatic reactor operation. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 5 due
+
+Problem set 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Data collection and analysis. Experimental methods for the determination of kinetic parameters of chemical and enzymatic reactions; determination of cell growth parameters; statistical analysis and model discrimination. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+WebLab experiment out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R6
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Biological reactors - chemostats. Theory of the chemostat. Fed batch or semi-continuous fermentor operation. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam 1
+{{< tdclose >}}
+{{< tdopen >}}
+WebLab follow-up assignment out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R7
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 7: Review of midterm exam 1 and WebLab experiment
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Kinetics of non-covalent bimolecular interactions. Significance; typical values and diffusion limit; approach to equilibrium; multivalency. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 7 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Gene expression and trafficking dynamics. Approach to steady state; receptor trafficking. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+WebLab follow-up assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R8
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Catalysis. Inorganic and enzyme catalysts and their properties; kinetics of heterogeneous catalytic reactions; adsorption isotherms, derivation of rate laws; Langmuir-Hinshelwood kinetics. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 7 due
+
+Problem set 8 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+Mass transfer resistances. External diffusion effects. Non-porous packed beds and monoliths, immobilized cells. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+External mass-transfer resistance: Gas-liquid reactions in multiphase systems. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Oxygen transfer in fermentors. Applications of gas-liquid transport with reaction. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R9
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 9
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 8 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm exam 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Reaction and diffusion in porous catalysts. Effective diffusivity, internal and overall effectiveness factor, Thiele modulus, apparent reaction rates. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 9 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R10
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Reaction and diffusion in porous catalysts (cont.). Packed bed reactors. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 9 due
+
+Problem set 10 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Combined internal and external transport resistances. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R11
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Pulling it all together; applications to energy/chemicals industry. Presentation of current research. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24
+{{< tdclose >}}
+{{< tdopen >}}
+Pulling it all together; applications to bioengineering and medicine. Presentation of current research. (KDW)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+R12
+{{< tdclose >}}
+{{< tdopen >}}
+Recitation 12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L25
+{{< tdclose >}}
+{{< tdopen >}}
+Course review. (WHG)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

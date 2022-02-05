@@ -6,18 +6,226 @@ uid: 59c5aafb-4d60-a558-f8cd-d39db174314a
 
 The following assignment solutions were prepared by David Adrian, Karen Daniel, and Bin Pan. Used with permission. In each solution there is a summary document along with supporting files. The archive contains each assignment's problems, solutions, and supporting files.
 
-| ASSIGNMENTS | SOLUTIONS | ARCHIVES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} Problem set 1 ([PDF]({{< baseurl >}}/resources/pset01)) {{< br >}}{{< br >}} vinylethene1.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene1.txt)) {{< br >}}{{< br >}} vinylethene2.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene2.txt)) {{< br >}}{{< br >}} vinylethene3.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene3.txt)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/pset01_soln)) {{< br >}}{{< br >}} hwk1prob1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob1.m)) {{< br >}}{{< br >}} hwk1prob2.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob2.m)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/pset01-1)) (The ZIP file contains: 3 .txt files, 2 .pdf files, and 2 .m files.) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/pset02)) | ([PDF]({{< baseurl >}}/resources/pset02_soln)) | ([ZIP]({{< baseurl >}}/resources/pset02-1)) (The ZIP file contains: pset02.pdf and pset02\_soln.pdf.) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/pset03)) |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/pset03_soln)) {{< br >}}{{< br >}} hw3prob3.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw3prob3.m)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/pset03-1)) (The ZIP file contains: pset03.pdf, hw3prob3.m, and pset03\_soln.pdf.) |
-| Problem set 4 ([PDF]({{< baseurl >}}/resources/pset04)) | Solution to problem 1 ([PDF]({{< baseurl >}}/resources/pset04_01_soln)) | ([ZIP]({{< baseurl >}}/resources/pset04-1)) (The ZIP file contains: pset04.pdf and pset04\_01\_soln.pdf.) |
-| Problem set 5 {{< br >}}{{< br >}} Fogler problems: {{< br >}}{{< br >}} 2-5, parts a, b, f, g {{< br >}}{{< br >}} 6-6, parts a-e {{< br >}}{{< br >}} 13-19, parts a-h {{< br >}}{{< br >}} 14-3, parts a-b {{< br >}}{{< br >}} Additional information ([PDF]({{< baseurl >}}/resources/additional_info)) {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} Problem set 6 ([PDF]({{< baseurl >}}/resources/pset06)) {{< br >}}{{< br >}} Amendment to the question: What magnitude of temperature perturbation would lead to a shift to a hotter steady state (ignition)? {{< br >}}{{< br >}} Batch reactor balances ([PDF]({{< baseurl >}}/resources/batch_reactor)) (Courtesy of David Adrian. Used with permission.) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/pset06_soln)) {{< br >}}{{< br >}} hw6p1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw6p1.m)) {{< br >}}{{< br >}} stabilitydiagram.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/stabilitydiagram.m)) {{< br >}}{{< br >}} oneweek.fig ([FIG - 1.7 MB]({{< baseurl >}}/resources/oneweek)) {{< br >}}{{< br >}}  | ([ZIP - 1.9 MB]({{< baseurl >}}/resources/pset06-1)) (The ZIP file contains: 3 .pdf files, 2 .m files, and 1 .fig file.) |
-| Problem set 7 ([PDF]({{< baseurl >}}/resources/pset07)) | ([PDF]({{< baseurl >}}/resources/pset07_soln)) | ([ZIP]({{< baseurl >}}/resources/pset07-1)) (The ZIP file contains: pset07.pdf and pset07\_soln.pdf.) |
-|  {{< br >}}{{< br >}} Problem set 8 {{< br >}}{{< br >}} Fogler problems: {{< br >}}{{< br >}} 10-4, all parts {{< br >}}{{< br >}} 11-5, all parts {{< br >}}{{< br >}} There is a typo in the problem statement for 11-5. The length of the reactor pipe should be 20 cm, not 20 m. Also, please use the following viscosity and diffusivity data: {{< br >}}{{< br >}} At 500oC, the viscosity of hydrogen is 0.015 centipoise and the viscosities of cyclohexane and benzene are both 0.1 centipoise. Assume the diffusivity of all species (Dab) is 0.857 cm2/s at the reactor T and P {{< br >}}{{< br >}}  | &nbsp; |
-|  {{< br >}}{{< br >}} Problem set 9 {{< br >}}{{< br >}} Fogler problems: {{< br >}}{{< br >}} 12-4 {{< br >}}{{< br >}} 12-6 {{< br >}}{{< br >}} (For those with the 3rd edition of Fogler, the problems numbers are the same as in the 4th edition.) {{< br >}}{{< br >}}  | &nbsp; |
-| Problem set 10 ([PDF]({{< baseurl >}}/resources/pset10)) | ([PDF]({{< baseurl >}}/resources/pset10_soln)) | ([ZIP]({{< baseurl >}}/resources/pset10-1)) (The ZIP file contains: pset10.pdf and pset10\_soln.pdf.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+{{< thopen >}}
+ARCHIVES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Problem set 1 ([PDF]({{< baseurl >}}/resources/pset01))
+
+vinylethene1.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene1.txt))
+
+vinylethene2.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene2.txt))
+
+vinylethene3.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene3.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/pset01_soln))
+
+hwk1prob1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob1.m))
+
+hwk1prob2.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob2.m))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/pset01-1)) (The ZIP file contains: 3 .txt files, 2 .pdf files, and 2 .m files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/pset02))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset02_soln))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/pset02-1)) (The ZIP file contains: pset02.pdf and pset02\_soln.pdf.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/pset03))
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/pset03_soln))
+
+hw3prob3.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw3prob3.m))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/pset03-1)) (The ZIP file contains: pset03.pdf, hw3prob3.m, and pset03\_soln.pdf.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4 ([PDF]({{< baseurl >}}/resources/pset04))
+{{< tdclose >}}
+{{< tdopen >}}
+Solution to problem 1 ([PDF]({{< baseurl >}}/resources/pset04_01_soln))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/pset04-1)) (The ZIP file contains: pset04.pdf and pset04\_01\_soln.pdf.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5
+
+Fogler problems:
+
+2-5, parts a, b, f, g
+
+6-6, parts a-e
+
+13-19, parts a-h
+
+14-3, parts a-b
+
+Additional information ([PDF]({{< baseurl >}}/resources/additional_info))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Problem set 6 ([PDF]({{< baseurl >}}/resources/pset06))
+
+Amendment to the question: What magnitude of temperature perturbation would lead to a shift to a hotter steady state (ignition)?
+
+Batch reactor balances ([PDF]({{< baseurl >}}/resources/batch_reactor)) (Courtesy of David Adrian. Used with permission.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/pset06_soln))
+
+hw6p1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw6p1.m))
+
+stabilitydiagram.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/stabilitydiagram.m))
+
+oneweek.fig ([FIG - 1.7 MB]({{< baseurl >}}/resources/oneweek))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP - 1.9 MB]({{< baseurl >}}/resources/pset06-1)) (The ZIP file contains: 3 .pdf files, 2 .m files, and 1 .fig file.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 7 ([PDF]({{< baseurl >}}/resources/pset07))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset07_soln))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/pset07-1)) (The ZIP file contains: pset07.pdf and pset07\_soln.pdf.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Problem set 8
+
+Fogler problems:
+
+10-4, all parts
+
+11-5, all parts
+
+There is a typo in the problem statement for 11-5. The length of the reactor pipe should be 20 cm, not 20 m. Also, please use the following viscosity and diffusivity data:
+
+At 500oC, the viscosity of hydrogen is 0.015 centipoise and the viscosities of cyclohexane and benzene are both 0.1 centipoise. Assume the diffusivity of all species (Dab) is 0.857 cm2/s at the reactor T and P
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Problem set 9
+
+Fogler problems:
+
+12-4
+
+12-6
+
+(For those with the 3rd edition of Fogler, the problems numbers are the same as in the 4th edition.)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 10 ([PDF]({{< baseurl >}}/resources/pset10))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/pset10_soln))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/pset10-1)) (The ZIP file contains: pset10.pdf and pset10\_soln.pdf.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 WebLab Experiment
 -----------------
