@@ -52,7 +52,7 @@ Review problems for midterm 2
 ([PDF]({{< baseurl >}}/resources/rev_exam2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/rev_exam2_soln))
+([PDF]({{< baseurl >}}/resources/rev_exam2_soln))
 {{< tdclose >}}
 
 {{< trclose >}}
