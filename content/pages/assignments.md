@@ -28,11 +28,11 @@ ARCHIVES
 
 Problem set 1 ([PDF]({{< baseurl >}}/resources/pset01))
 
-vinylethene1.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene1.txt))
+vinylethene1.txt ({{% resource_link "a54d7b6f-bb33-533a-87e7-bd038e15f9a8" "TXT" %}})
 
-vinylethene2.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene2.txt))
+vinylethene2.txt ({{% resource_link "50950024-ebe4-e295-829d-5750692112bf" "TXT" %}})
 
-vinylethene3.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/vinylethene3.txt))
+vinylethene3.txt ({{% resource_link "f3b117aa-3eb3-9481-5139-6ee3027e0247" "TXT" %}})
 
 
 {{< tdclose >}}
@@ -41,9 +41,9 @@ vinylethene3.txt ([TXT](/courses/chemical-engineering/10-37-chemical-and-biologi
 
 ([PDF]({{< baseurl >}}/resources/pset01_soln))
 
-hwk1prob1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob1.m))
+hwk1prob1.m ({{% resource_link "d4e79158-fe34-44ac-de36-4e41d474e8a7" "M" %}})
 
-hwk1prob2.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hwk1prob2.m))
+hwk1prob2.m ({{% resource_link "0ea03d95-44b4-3045-f385-94d5474b40a1" "M" %}})
 
 
 {{< tdclose >}}
@@ -73,7 +73,7 @@ Problem set 3 ([PDF]({{< baseurl >}}/resources/pset03))
 
 ([PDF]({{< baseurl >}}/resources/pset03_soln))
 
-hw3prob3.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw3prob3.m))
+hw3prob3.m ({{% resource_link "790b3808-42a2-fd5a-edc6-0e8272fa94e5" "M" %}})
 
 
 {{< tdclose >}}
@@ -137,9 +137,9 @@ Batch reactor balances ([PDF]({{< baseurl >}}/resources/batch_reactor)) (Courtes
 
 ([PDF]({{< baseurl >}}/resources/pset06_soln))
 
-hw6p1.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/hw6p1.m))
+hw6p1.m ({{% resource_link "4f8bf92e-4a90-ff7b-8a25-5363d3ee8572" "M" %}})
 
-stabilitydiagram.m ([M](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/stabilitydiagram.m))
+stabilitydiagram.m ({{% resource_link "30e1c72e-b270-691d-41f8-426adef11170" "M" %}})
 
 oneweek.fig ([FIG - 1.7 MB]({{< baseurl >}}/resources/oneweek))
 
@@ -248,7 +248,7 @@ These files are courtesy of Andreas Braumann and Michael Goodson. Used with perm
 
 Pre-lab Assignment: ([PDF]({{< baseurl >}}/resources/2007_prelab))
 
-Data: Run 1 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run1.txt)); Run 2 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run2.txt)); Run 3 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run3.txt)); Run 4 ([TXT](/courses/chemical-engineering/10-37-chemical-and-biological-reaction-engineering-spring-2007/assignments/run4.txt))
+Data: Run 1 ({{% resource_link "10e9b622-4987-b8af-72be-318809870e5e" "TXT" %}}); Run 2 ({{% resource_link "769ebb15-20ab-841c-0896-62cc0b01d273" "TXT" %}}); Run 3 ({{% resource_link "2bff92b0-e916-8b32-3d46-403638e6165c" "TXT" %}}); Run 4 ({{% resource_link "558b067c-eb2a-96b7-43c6-122f9379d1c0" "TXT" %}})
 
 Post-lab Assignment: ([PDF]({{< baseurl >}}/resources/2007_postlab))
 
